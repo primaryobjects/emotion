@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emotional Artificial Intelligence Demo 1.0</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script src="without-emotion.js"></script>
+</head>
+<body>
+  Input:
+  <input id="input" type="text" value="" />
+
+  <input type="button" value="Submit" onclick="$('#output').append('&gt; ').append($('#input').val()).append('<br/>').append(respond($('#input').val())).append('<br/>')" />
+
+  <input id="clear" type="button" value="Clear" onclick="$('#output').empty()" />
+
+  <div id="output"></div>
+</body>
+</html>

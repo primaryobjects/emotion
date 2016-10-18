@@ -14,6 +14,8 @@ Phrases that contain emotionally charged words (from a preset list of keywords) 
 
 Each potential response from the conversational UI consists of three potential sentences, according to the sentiment of the user.
 
+The actual determination of sentiment is performed in a mock function, where you would normally call a machine learning API for scoring sentiment (ie., http://sentimentview.com). Likewise, responses for book reviews are hard-coded, where you would normally call a book review API (ie., http://goodreads.com/api).
+
 Why?
 ----
 

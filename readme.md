@@ -6,7 +6,7 @@ Proof-of-concept for an emotional conversational user interface about book revie
 What is it?
 -----------
 
-This project is simple demo of designing emotion into an artificial intelligence conversational UI. The demo consists of a chatbot interface for retrieving book reviews. The user can interact with the software in a conversational UI style, by typing and chatting with the software.
+This project is a simple demo of designing emotion into an artificial intelligence conversational UI. The demo consists of a chatbot interface for retrieving book reviews. The user can interact with the software in a conversational UI style, by typing and chatting with the software.
 
 Responses from the chatbot are triggered by specific keywords and phrases.
 

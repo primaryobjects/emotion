@@ -10,7 +10,7 @@ var brain = [
     value: {
       neutral: "The book Alice in Wonderland has a rating of 4 stars.",
       positive: "That's great to hear that you enjoy the book. You might also like \"The Annotated Alice: The Definitive Edition\" by the same author, with a rating of 4.5. Would you like to hear about it?",
-      negative: "Although this book might be dissapointing, you might enjoy \"The House at Pooh Corner\", by A.A. Milne, with a rating of 4.3. Would you like to hear about it?"
+      negative: "Although this book might be disappointing, you might enjoy \"The House at Pooh Corner\", by A.A. Milne, with a rating of 4.3. Would you like to hear about it?"
     }
   },
   { key: "pemberley",
